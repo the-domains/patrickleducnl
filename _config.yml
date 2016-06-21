@@ -1,0 +1,14 @@
+layout_spectrum: 0.08954090881161392
+typography_spectrum: 0.6235308789182454
+color:
+  brandStrength: 0.08839363534934819
+  lightness: 0.6432201159186661
+  saturation: 0.2627775389701128
+  rhythmicContrast: 0.9490259527228773
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+name: patrickleduc.nl
