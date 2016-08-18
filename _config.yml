@@ -1,14 +1,26 @@
-layout_spectrum: 0.08954090881161392
-typography_spectrum: 0.6235308789182454
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.2722878
 color:
-  brandStrength: 0.08839363534934819
-  lightness: 0.6432201159186661
   saturation: 0.2627775389701128
+  brandStrength: 0.08839363534934819
   rhythmicContrast: 0.9490259527228773
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  lightness: 0.6432201159186661
+layout_spectrum: 1
 name: patrickleduc.nl
